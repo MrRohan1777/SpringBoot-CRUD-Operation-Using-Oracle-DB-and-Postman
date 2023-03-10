@@ -1,5 +1,5 @@
 # SpringBoot-CRUD-Operation-Using-Oracle-DB-and-Postman
-##create crud by creating Rest API and give the value throw the postman here is a some snapshot
+##create crud by creating Rest API and give the value through the postman here is a some snapshot
 
 #snapshots
 
